@@ -1,5 +1,5 @@
 # Collaboration-between-LabVIEW-and-MATLAB
-A LabVIEW program calling the updated .m files.
+A LabVIEW example calling the updated .m files.
 
 Reference: <br>
 1. https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000001E0TDCA0&l.html=&l=zh-CN <br>
