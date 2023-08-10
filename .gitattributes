@@ -1,0 +1,3 @@
+*.js linguist-language=LabVIEW
+*.css linguist-language=LabVIEW
+*.html linguist-language=LabVIEW
